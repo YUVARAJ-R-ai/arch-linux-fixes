@@ -11,8 +11,8 @@ Everything here is based on actual issues I’ve encountered — documented, tes
 | 🔧 Fix / Guide | 📄 Description |
 |----------------|----------------|
 | [Hyprland Wallpaper Scaling](./hyprland-wallpaper-scaling/README.md) | Permanently fix wallpaper scaling issues after Hyprland script reloads. |
-| [pgAdmin setup on arch](./pgAdmin-setup/README.md) | Set up VS Code with compiler, debugger, extensions, and CMake on Arch. |
-
+| [pgAdmin setup on arch](./pgAdmin-setup/README.md) | Set up PgAdmin web client for postgres on arch linux |
+| [Format storage device(linux)](./format-storage/README.md) | Documentation of formatting storage devices on linux |
 
 ---
 
