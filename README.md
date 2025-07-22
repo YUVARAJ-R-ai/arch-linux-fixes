@@ -14,7 +14,7 @@ Everything here is based on actual issues I’ve encountered — documented, tes
 | [pgAdmin setup on arch](./pgAdmin-setup/README.md) | Set up PgAdmin web client for postgres on arch linux |
 | [Format storage device(linux)](./format-storage/README.md) | Documentation of formatting storage devices on linux |
 | [Chrome zoom fix(linux)](./chrome-zoom-fix/README.md) | Documentation on Fixing the usual gesture we use on chrome (arch)|
-| [Rclone setup (linux)](./chrome-zoom-fix/README.md) |Rclone is Synchronization software that can be used to sync you folder to gldrive|
+| [Rclone setup (linux)](./rclone-setup/README.md) |Rclone is Synchronization software that can be used to sync your folder to gldrive|
 ---
 
 > ⚡ Actively maintained. Feel free to fork, use, or contribute!
